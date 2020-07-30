@@ -1,0 +1,12 @@
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\bin\Debug\TheNewCalender.exe.config
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\bin\Debug\TheNewCalender.exe
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\bin\Debug\TheNewCalender.pdb
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.csprojAssemblyReference.cache
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.Properties.Resources.resources
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.csproj.GenerateResource.cache
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.csproj.CoreCompileInputs.cache
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.exe
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.pdb
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.Calender.resources
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.Profile.resources
+C:\Users\linis\source\repos\TheNewCalender\TheNewCalender\obj\Debug\TheNewCalender.DateManager.resources
